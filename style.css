@@ -234,9 +234,12 @@ body {
 }
 
 /* footer */
+
+
 .footer--content__alignment {
   display: flex;
   justify-items: center;
+  width: 100%;
 }
 
 ul>li>a {
