@@ -234,7 +234,21 @@ body {
 }
 
 /* footer */
+.footer--content__alignment {
+  display: flex;
+  justify-items: center;
+}
 
+ul>li>a {
+  list-style: none;
+  text-decoration: none;
+  color: #545d7a;
+}
 
+.Flowbite {
+  list-style: none;
+  text-decoration: none;
+  color: #545d7a;
+}
 
 /* end footer styling */
